@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HolaMundo.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-16T12:54:48" hostname="Rodguerpc" time="0.134">
+  <properties/>
+  <testcase name="application has a greeting" classname="HolaMundo.AppTest" time="0.134"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
